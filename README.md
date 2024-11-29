@@ -1,9 +1,49 @@
-# homework 1
+# substrate-primary-16-homework
+repo for student to submit homework
 
-## bitcoin whitepaper
-请阅读比特币白皮书，并写下你的观后感。需条理清晰，200字以上比特币白皮书：https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf
-最好偏技术解读，比如对utxo模型的理解
+## 课程名称
 
-## substrate node
-请运行solochain-template-node节点
-https://github.com/papermoonio/polkadot-sdk-solo-template-dev-courses
+Substrate区块链开发入门16期
+
+### 课程简介
+
+无论你是技术背景的开发者，还是对 Web3 充满好奇的探索者，这门课程都是你迈入区块链世界的最佳跳板。
+本课程通过对Web3、Polkadot的介绍、Polkadot 应用开发的基础知识和Substrate技术的学习，结合DApp部署实践、让开发者熟练搭建定制化功能区块链，快速进行项目落地！
+
+快来运用 Substrate 技术开启项目开发之旅，加入波卡生态建设！
+
+### 课程设置
+
+6 次视频课+5 个 Task+5 次 office hour
+
+### 批改标准：
+
+10 分/个，共 50 分
+
+1）是否完成简答基本内容
+
+2）是否结合题目进行深度思考
+
+3）是否完成 Demo 中的基本功能
+
+4）符合开源社区标准（包括但不限于代码注释完整并且提交到上述 github 地址里）
+
+### 奖励明细
+
+1. 完成5个task 任务，可瓜分共¥2500奖学金；
+
+2. task评分排名前10的同学，获得纸质版证书和周边奖励
+
+3. 评分第一的同学，获得行业大佬1对1咨询机会
+
+### 奖励发放
+
+1.奖金将在结业后 7 个工作日发放
+
+### 注意事项
+
+1）复制 homework 目录下的 000 并使用自己的学号新建一个目录；
+
+2）.gitignore 不要提交编译出来的文件；
+
+3）不可复制粘贴他人作业内容，发现即 0 分，不予发放奖励
